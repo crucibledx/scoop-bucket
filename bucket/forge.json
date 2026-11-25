@@ -1,12 +1,12 @@
 {
-  "version": "0.6.24",
+  "version": "0.7.0",
   "description": "One source of truth for every AI tool your team uses",
   "homepage": "https://github.com/crucibledx/forge-cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/crucibledx/forge-cli/releases/download/v0.6.24/forge-windows-x64.zip",
-      "hash": "b0ff1c5eebd9e9f4d2a08241113d14c7d92d4a66e5b444a5907bdc50a367d2d4"
+      "url": "https://github.com/crucibledx/forge-cli/releases/download/v0.7.0/forge-windows-x64.zip",
+      "hash": "ef770f84976e6390521b172191e02bf4af0195dfeb3d3afc694d8f2a01d27ffe"
     }
   },
   "bin": "forge.exe",
